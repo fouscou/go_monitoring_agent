@@ -1,2 +1,2 @@
 # go_monitoring_agent
-A monitoring agent build in Go.
+A monitoring agent built in Go.
